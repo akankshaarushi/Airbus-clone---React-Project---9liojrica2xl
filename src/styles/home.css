@@ -1,0 +1,61 @@
+.Home {
+              height: 90vh;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              background: url("http://d1b8n6kng8vcnt.cloudfront.net/blog/wp-content/uploads/2014/03/airportparking.jpg");
+              background-repeat: no-repeat;
+              background-size: cover;
+              background-position: center;
+}
+
+.SearchCard {
+              background: white;
+              width: 1000px;
+              display: flex;
+              justify-content: space-between;
+              height: 130px;
+              position: relative;
+              top: 80px;
+              padding: 30px;
+              border-radius: 5px;
+              background: rgb(56, 199, 218);
+              /* border: 5px solid rgb(10, 111, 124); */
+
+}
+
+.from {
+              position: relative;
+              /* top: 4px; */
+              width: 18%;
+              
+
+}
+
+.btnSearch {
+              position: relative;
+              top: 30px;
+              width: 180px;
+              height: 35px;
+              padding: 3px;
+              background: yellow;
+              border-radius: 4px;
+              font-weight: bold;
+              cursor: pointer;
+}
+
+select{
+              width: 180px;
+              height: 30px;
+              margin-top: 6px;
+              border-radius: 2px;
+}
+
+label {
+              margin: 5px;
+}
+
+.icons {
+              position: relative;
+              left: -6px;
+}

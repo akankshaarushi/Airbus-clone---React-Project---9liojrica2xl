@@ -1,0 +1,73 @@
+.info{
+              width: 100%;
+              height: 100vh;
+              background: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-vector-business-mobile-payment-poster-image_261492.jpg");
+              background-repeat: no-repeat;
+              background-size: cover;
+              background-position: center;
+}
+.card_ceckout{
+              width: 474px;
+              height: 340px;
+              padding: 24px;
+              margin: 31px;
+              box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+              position: relative;
+              left: 288px;
+              top: 80px;
+}
+.card_ceckout1{
+    width: 390px;
+    height: 232px;
+    padding: 27px;
+    margin: 49px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+    position: relative;
+    left: 802px;
+    bottom: 264px;
+    padding-left: 0px;
+}
+.form-control{
+              height: 46px;
+              /* background: pink; */
+}
+.form-control1{
+    width: 330px;
+    height: 39px;
+    border-radius: 4px;
+}
+.form_control_form{
+              position: relative;
+              top: -52px;
+              left: -64px;
+              width: 427px;
+}
+.form_control_form1{
+    padding: 21px;
+}
+.card_checkout_main{
+              position: relative;
+              bottom: 54px;
+}
+.card_body{
+              margin-bottom: 13px;
+              width: 402px;
+}
+.card_body1{
+        margin-bottom: 13px;
+        width: 305px;
+        display: flex;
+  
+}
+
+
+.pay_button{
+    position: relative;
+    top: -3px;
+    right: 165px;
+    width: 95px;
+    height: 36px;
+    border-radius: 4px;
+    background: rgb(39, 39, 128);
+    color: white;
+}

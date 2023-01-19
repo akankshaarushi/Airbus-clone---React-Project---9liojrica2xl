@@ -1,0 +1,115 @@
+.form_mains{
+  width: 100%;
+  height: 670px;
+  background:url("https://tse3.mm.bing.net/th?id=OIP.-RLLmtABdmkbNxOi3GNLwQHaFj&pid=Api&P=0");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.forms{
+              width: fit-content;
+            height:580px;
+            position: relative;
+            align-items: center;
+            text-align: center;
+            top: 70px;
+            /* box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px; */
+            /* background: rgb(125, 125, 170); */
+            border: 4px solid rgb(5, 87, 112);
+            
+}
+
+.passanger_heding{
+ text-align: center;
+  padding: 10px;
+  margin: 15px;
+  font-size: 45px;
+  background: rgb(5, 87, 112);
+  color: white;
+
+}
+
+.passenger_input_name{
+              width: 420px;
+              border-radius: 4px;
+              height: 47px;
+              margin: 17px;
+              padding: 11px;
+              
+}
+
+.passenger_input_age{
+  width: 420px;
+  border-radius: 4px;
+  height: 47px;
+  margin: 17px;
+  padding: 11px;
+  position: relative;
+    left: 9px;
+
+  
+}
+
+/* .select_box{
+              display: flex;
+} */
+
+.class_label{
+  position: relative;
+  right: 212px;
+}
+.p_label{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: 34px;
+
+}
+.Economy_label{
+  position: relative;
+  right: 47px;
+}
+.people{
+  display: flex;
+    justify-content: center;
+    position: relative;
+    left: 39px;
+}
+
+.select_box{
+  height: 37px;
+  padding: 8px;
+  position: relative;
+    left: 72px;
+}
+
+.people_class{
+  position: relative;
+  left: 30px;
+}
+
+.child_div{
+  position: relative;
+  left: 25px;
+}
+.child_span{
+  left: 58px;
+  position: relative;
+}
+.payment{
+  position: relative;
+  top: 55px;
+  left: 61px;
+}
+.checkout_button{
+    width: 200px;
+    height: 50px;
+    background: rgb(5, 87, 112);
+    color: white;
+    border-radius: 5px;
+    position: relative;
+    bottom: 43px;
+    right: 334px;
+    top: 47px;
+}

@@ -1,0 +1,39 @@
+.cons{
+              width: 100%;
+              height: 90vh;
+              background: url("https://clipground.com/images/wave-border-png-4.png"); 
+              background-color: rgb(173, 173, 235);
+              background-repeat: no-repeat;
+              background-size: cover;
+              background-position: center;       
+}
+.container{
+              width: 100%;
+              height: 90vh;
+}
+
+
+.starting{
+              display: flex;
+              justify-content: space-between;
+             
+}
+
+.buttons{
+              position: relative;
+              right: 200px;
+              background: rgb(18, 18, 194);
+              padding: 10px;
+}
+
+.para{
+              margin-top: 15px;
+              position: relative;
+              right: 200px;
+}
+
+.inp{
+              padding: 10px;
+              border: 2px solid rgb(85, 85, 202);
+}
+
